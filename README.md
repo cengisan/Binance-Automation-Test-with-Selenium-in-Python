@@ -1,1 +1,1 @@
-Please download chromedriver.exe. Unless you download this exe file, python file does not work.
+Please download chromedriver.exe(32-bit). Unless you download this exe file, python file does not work.
